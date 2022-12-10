@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
- * this iis main entry point
- * and it print the text to the screen
+ *main - Entry point
+ *Return: Always 0 (success)
  */
 int main(void)
 {
